@@ -1,0 +1,99 @@
+@media all and (min-width:364px) and (max-width:767px){
+    .shop-body{
+        position: absolute;
+        left: -370px;
+    }
+
+    .fa-moon{
+        font-size: 100px;
+        position: absolute;
+        }
+
+    .light1{
+        position: absolute;
+        top: 200px;
+    }
+
+     .light2{
+        position: absolute;
+        top: 180px;
+    }
+
+     .light3{
+        position: absolute;
+        top: 140px;
+    }
+
+     .light4{
+        position: absolute;
+        top: 60px;
+    }
+
+    .giant-planet{
+        position: absolute;
+    }
+
+    .name{
+        position: absolute;
+        left: -375px;
+    }
+
+    .register{
+        position: absolute;
+        left: 210px;
+    }
+
+    .counter-text{
+        width: 300px;
+    }
+
+}
+
+@media all and (min-width:768px) and (max-width:1023px){
+    .shop-body{
+        position: absolute;
+        left: -370px;
+    }
+
+    .register{
+        position: absolute;
+        left: 210px;
+    }
+
+    .fa-moon{
+        font-size: 100px;
+    }
+
+    .light1{
+        position: absolute;
+         left: 160px;
+        top: 200px;
+    }
+
+     .light2{
+        position: absolute;
+        top: 10px;
+        left: 160px;
+    }
+
+    .light3{
+        position: absolute;
+        top: 130px;
+        left: 200px;
+    }
+
+    .light4{
+        position: absolute;
+        top: 65px;
+        left: 200px;
+    }
+
+    .name{
+        position: absolute;
+        left: -375px;
+    }
+
+    .counter-text{
+        width: 300px;
+    }
+}
